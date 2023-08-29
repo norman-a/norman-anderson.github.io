@@ -1,0 +1,68 @@
+.Main {
+  scroll-margin-top: 14vw;
+  position: relative;
+  font-family: 'Volkhov', serif;
+  max-width: 100%;
+  margin-top: 14vw;
+  margin-bottom: 7.8vw;
+}
+
+.Title {
+  position: relative;
+  font-size: 9.53vw;
+  z-index: 9999;
+  line-height: 1;
+  margin-bottom: 1.95vw; 
+}
+
+.SecondaryTitle {
+  color: white;
+  font-size: 3.28vw;
+  font-family: 'Volkhov', serif;
+}
+
+.Pic {
+  position: absolute;
+  width: 33vw;
+  height: auto;
+  top: 3.95vw;
+  left: 53.25vw;
+  border-radius: 12px;
+  transform: rotate(10.42deg);
+  z-index: 1;
+}
+
+.Arrow {
+  width: 14vw;
+  height: auto;
+  margin-top: 3.9vw;
+}
+
+@media all and (max-width: 414px) {
+  .Main {
+    margin-top: 24vw;
+  }
+
+  .Title {
+    font-size: 16.5vw;
+    margin-bottom: 9vw;
+  }
+
+  .Pic {
+    width: 49.3vw;
+    top: 23vw;
+    left: 38vw;
+  }
+
+  .SecondaryTitle {
+    font-size: 7.46vw;
+    width: 51.2vw;
+    line-height: 9vw;
+  }
+
+  .Arrow {
+    margin-top: 15.5vw;
+    width: 30vw;
+    transform: rotate(-5deg);
+  }
+}
