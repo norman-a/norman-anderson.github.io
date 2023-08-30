@@ -13,11 +13,11 @@ const about = (props) => {
           About me
         </h2>
         <p className={styles.Note}>
-          I love to code! Being able to build things and seeing them through to the end has always resonated with me. 
+          I love to code! Building things and seeing through them to completion has always resonated with me. 
           <br />
           <br />
-          As a Software Engineer, I have a penchant for the sense of control that is available with programming. 
-          It is unlike most things in life, in the sense where the process can be very methodical. 
+          As a Software Engineer, I enjoy the sense of control that comes with programming. 
+          It is unlike most things in life, in that the process can be very methodical. 
           When making magical things happen in code, it is because of you. When encountering bugs, it is also because of you.
           This can make the flow of programming very rewarding, as I can constantly learn and improve my techniques by noticing these patterns.
           <br />
