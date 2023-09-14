@@ -69,7 +69,7 @@ const Menu = (props) => {
               Skills
             </a>
           </li>
-          <li>
+          {/* <li>
             <a
               mode={props.mode}
               href='#projects'
@@ -78,7 +78,7 @@ const Menu = (props) => {
             >
               Projects
             </a>
-          </li>
+          </li> */}
           <li>
             <a
               mode={props.mode}

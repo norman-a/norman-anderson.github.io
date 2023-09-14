@@ -25,9 +25,9 @@ const Contact = (props) => {
           <h4>
             <a
               className={visible ? styles.Visible : styles.Invisible}
-              href='mailto:thenormanhimself@gmail.com'
+              href='mailto:info@iamnorman.com'
             >
-              thenormanhimself@gmail.com
+              info@iamnorman.com
             </a>
           </h4>
           <img
@@ -103,7 +103,8 @@ const Contact = (props) => {
               mode={props.mode}
               target='_blank'
               rel='noopener noreferrer'
-              href='https://magenta-justina-90.tiiny.site/'
+              //href='https://magenta-justina-90.tiiny.site/'
+              href='/norman_resume.pdf'
             >
               Resume
             </a>

@@ -343,6 +343,7 @@
   width: 23vw;
   margin: 0 auto;
   position: relative;
+  left: 7.5vw;
   justify-content: space-between;
   margin-bottom: 4.3vw;
 }

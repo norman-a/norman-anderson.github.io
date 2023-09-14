@@ -177,7 +177,7 @@ const Projects = (props) => {
           >
             See Github
           </a>
-          <a
+          {/* <a
             mode={props.mode}
             target='_blank'
             rel='noopener noreferrer'
@@ -185,7 +185,7 @@ const Projects = (props) => {
             href={pageLink}
           >
             See Project
-          </a>
+          </a> */}
         </div>
       </div>
       <img className={styles.Arrow} src={arrow} alt='' />

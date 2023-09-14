@@ -15,7 +15,7 @@ const main = props => {
         <br />
         Anderson
       </h1>
-      <h4 className={styles.SecondaryTitle}>Full Stack Developer</h4>
+      <h4 className={styles.SecondaryTitle}>Software Developer</h4>
       <h4 className={styles.SecondaryTitle}>with 1.5 years of experience</h4>
       <img mode={props.mode} className={styles.Arrow} src={arrow} alt=""/>
     </div>

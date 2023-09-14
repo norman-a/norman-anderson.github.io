@@ -22,7 +22,8 @@ const about = (props) => {
           This can make the flow of programming very rewarding, as I can constantly learn and improve my techniques by noticing these patterns.
           <br />
           <br />
-          Welcome to my website!
+          Welcome to my website! I'm currently looking to transition into embedded systems engineering as a career,
+          so if you have any opportunities such as internships or projects that have to do with low-level programming let me know!
         </p>
       </div>
 

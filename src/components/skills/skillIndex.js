@@ -1,5 +1,5 @@
-const languages = ['javascript', 'typescript', 'html5', 'css3', 'cpp', 'python', 'java'];
-const tools = ['react', 'vue', 'springboot', 'nodejs', 'aws', 'docker'];
+const languages = ['cpp', 'c', 'python', 'javascript', 'typescript', 'html5', 'css3', 'java'];
+const tools = ['embedded', 'vue', 'react', 'springboot', 'nodejs', 'aws', 'docker'];
 
 export const languagesImages = [];
 export const toolsImages = [];
